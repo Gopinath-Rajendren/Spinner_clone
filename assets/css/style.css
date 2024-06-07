@@ -877,6 +877,12 @@ color: rgb(230, 0, 76);
    padding-right: 7px;
    font-size: 15px;
 }
+#navbar form .dropdown_1{
+   display: none;
+}
+#navbar form {
+   padding-bottom: 30px;
+}
  }
 
 
